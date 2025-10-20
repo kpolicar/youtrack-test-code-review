@@ -4,3 +4,5 @@ This project has been spun off the [YouTrack App Quick Start](https://www.jetbra
 ](https://internship.jetbrains.com/projects/1631).
 
 Please refer to the [pull request](https://github.com/kpolicar/youtrack-test-code-review/pull/2) for the solution to this assignment.
+
+Similar solution to internship problem description for OctoberCMS: https://github.com/kpolicar/octobercms-backendtrafficcop
